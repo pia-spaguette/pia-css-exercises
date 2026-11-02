@@ -1,1 +1,20 @@
-/* Add CSS Styling */
+p {
+    color: black;
+    background-color: rgb(255, 192, 203);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#title{
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#notitle{
+    background-color: rgb(0, 255, 0, 0.3);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.no-3{
+    font-size: 24px;
+}
